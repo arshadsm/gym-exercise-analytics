@@ -9,10 +9,6 @@ This project utilizes gym exercise tracking data for both genders to build a pre
 - [Key Features](#key-features)  
 - [Project Workflow](#project-workflow)  
 - [How to Run](#how-to-run)  
-- [Results](#results)  
-- [Future Scope](#future-scope)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
