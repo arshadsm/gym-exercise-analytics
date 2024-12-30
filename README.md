@@ -1,4 +1,4 @@
-# Scalable Predictive Analytics for Gym Exercise Data Using Databricks  
+# Predictive Analytics for Gym Exercise Data Using Databricks  
 
 This project utilizes gym exercise tracking data for both genders to build a predictive analytics model using big data tools on Databricks. The analysis focuses on extracting actionable insights from fitness-related metrics, such as heart rate, BMI, calories burned, and workout patterns.  
 
